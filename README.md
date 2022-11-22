@@ -1,3 +1,3 @@
 # PacMen
 
-![Pacmanimg](./images/PacMan1.png)
+![Pacmanimg](./images/screenshot.png)
